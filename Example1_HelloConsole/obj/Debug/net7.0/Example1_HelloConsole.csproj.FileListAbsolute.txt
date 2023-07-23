@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\bin\Debug\net7.0\Example1_HelloConsole.exe
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\bin\Debug\net7.0\Example1_HelloConsole.deps.json
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\bin\Debug\net7.0\Example1_HelloConsole.runtimeconfig.json
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\bin\Debug\net7.0\Example1_HelloConsole.dll
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\bin\Debug\net7.0\Example1_HelloConsole.pdb
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.AssemblyInfo.cs
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.dll
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\refint\Example1_HelloConsole.dll
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.pdb
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\Example1_HelloConsole.genruntimeconfig.cache
+C:\Users\admin\Desktop\GeekBrains\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Example1_HelloConsole\obj\Debug\net7.0\ref\Example1_HelloConsole.dll
